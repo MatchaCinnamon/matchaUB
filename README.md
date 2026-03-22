@@ -1,4 +1,4 @@
-# matchaUniversalBroadcastSystem
+# Matcha Universal Broadcast
 An out-of-the-boxed lite broadcast system for any sports‘ events.
 
-Under programing & it'll be a long term program.
+Under programing & No exact alpha version pulish time yet.
